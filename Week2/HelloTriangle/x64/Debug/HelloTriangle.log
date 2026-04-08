@@ -1,5 +1,0 @@
-﻿  glad.c
-  HelloTriangle.cpp
-C:\Users\user\Desktop\gpu프로그래밍\Week2\HelloTriangle\src\HelloTriangle.cpp(230,25): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
-LINK : warning LNK4098: 'MSVCRT' defaultlib가 다른 라이브러리와 충돌합니다. /NODEFAULTLIB:library를 사용하십시오.
-  HelloTriangle.vcxproj -> C:\Users\user\Desktop\gpu프로그래밍\Week2\x64\Debug\HelloTriangle.exe
